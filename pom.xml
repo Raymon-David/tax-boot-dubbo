@@ -30,7 +30,7 @@
         <version>2.2.5.RELEASE</version>
         <dubbo.starter.version>0.2.0</dubbo.starter.version>
         <zkClient.version>0.10</zkClient.version>
-        <zookeeper.version>3.4.12</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
     </properties>
 
     <dependencies>
